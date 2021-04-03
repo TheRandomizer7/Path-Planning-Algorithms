@@ -9,7 +9,7 @@ Specific things for individual programs, things that may not be explained in com
 
 Note: bounds_of_plane is a rectangular region which has two of it's diagonal vertices as origin (0, 0) and the tuple bounds_of_plane
 
-1)RRT - For RRT, variables can be found under "#variables" (line - 61). However, Obstacles, start point and goal cannot be found under "#variables",  they can be changed in the function called test_rrt() (line - 135).
+1)RRT - For RRT, most variables can be found under "#variables" (line - 61). However, Obstacles, start point and goal cannot be found under "#variables",  they can be changed in the function called test_rrt() (line - 135).
 
 2)RRT* - "#variables can be found on (line - 91)
 
