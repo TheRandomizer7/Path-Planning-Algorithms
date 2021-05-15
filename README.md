@@ -14,5 +14,3 @@ Note: bounds_of_plane is a rectangular region which has two of it's diagonal ver
 2)RRT* - "#variables can be found on (line - 91)
 
 3)PRM + Astar - "#variables can be found on (line - 92)
-
-Also please note that the PRM code has not been cleaned up yet, there is a lot of redundant code, would not recommend reading through it.
